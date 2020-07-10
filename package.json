@@ -1,0 +1,24 @@
+{
+  "name": "backendtestcesar",
+  "version": "1.0.0",
+  "description": "Para eltest de humanotech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "cesar casares",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.22",
+    "mongoose-unique-validator": "^2.0.3",
+    "underscore": "^1.10.2",
+    "uuid": "^8.2.0"
+  }
+}
